@@ -1,2 +1,2 @@
-# SIGP
-Sistema Integral de Gestion de Personal
+# SIGT
+Sistema Integral de Gestion Total
